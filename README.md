@@ -1,5 +1,5 @@
 Olá! Meu nome é Lucas Sousa Reis, estudante de engenharia de computação na Universidade Federal de Goiás- UFG
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; Métricas do Github
 
 <a href="https://github.com/LucasSousaReis/LucasSousaReis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSousaReis&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
