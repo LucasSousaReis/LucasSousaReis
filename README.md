@@ -1,4 +1,7 @@
-![banner-gif](https://github.com/LucasSousaReis/LucasSousaReis/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true)
+
+<p align="center">
+  <img src="https://github.com/LucasSousaReis/LucasSousaReis/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true" />
+</p>
 
 Olá! Meu nome é Lucas Sousa Reis, estudante de engenharia de computação na Universidade Federal de Goiás- UFG
 
