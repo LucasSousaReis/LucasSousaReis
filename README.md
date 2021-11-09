@@ -8,12 +8,10 @@ Olá! Meu nome é Lucas Sousa Reis, estudante de engenharia de computação na U
 <div>
 ## &#x1f4c8; Métricas do Github
 
-![Lucas Sousa Reis- Stats](https://github-readme-stats.vercel.app/api?username=LucasSousaReis&theme=graywhite&show_icons=true)
 
 </div>
-<a href="https://github.com/LucasSousaReis/LucasSousaReis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSousaReis&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+![Lucas Sousa Reis- Stats](https://github-readme-stats.vercel.app/api?username=LucasSousaReis&theme=graywhite&show_icons=true)
+
 <a href="https://github.com/LucasSousaReis/LucasSousaReis">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasSousaReis&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lucas Sousa Reis GitHub Stats" />
 </a>
