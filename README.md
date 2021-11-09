@@ -1,4 +1,4 @@
-![banner-gif](https://github.com/LucasSousaReis/LucasSousaReis/blob/main/Ol%C3%A1,%20eu%20sou%20o%20Lucas.gif?raw=true)
+![banner-gif](https://github.com/LucasSousaReis/LucasSousaReis/blob/main/readmegif.gif?raw=true)
 
 Olá! Meu nome é Lucas Sousa Reis, estudante de engenharia de computação na Universidade Federal de Goiás- UFG
 ## &#x1f4c8; Métricas do Github
