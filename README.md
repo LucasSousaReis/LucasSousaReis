@@ -1,8 +1,15 @@
+<div>
 ![banner-gif](https://github.com/LucasSousaReis/LucasSousaReis/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true)
+</div>
 
 Olá! Meu nome é Lucas Sousa Reis, estudante de engenharia de computação na Universidade Federal de Goiás- UFG
+
+<div>
 ## &#x1f4c8; Métricas do Github
 
+![Lucas Sousa Reis- Stats](https://github-readme-stats.vercel.app/api?LucasSousaReis=anuraghazra&theme=graywhite&show_icons=true)
+
+</div>
 <a href="https://github.com/LucasSousaReis/LucasSousaReis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSousaReis&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
