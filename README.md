@@ -6,10 +6,9 @@
 Olá! Meu nome é Lucas Sousa Reis, estudante de engenharia de computação na Universidade Federal de Goiás- UFG
 
 <div>
-## &#x1f4c8; Métricas do Github
-
-
+ &#x1f4c8; Métricas do Github
 </div>
+
 ![Lucas Sousa Reis- Stats](https://github-readme-stats.vercel.app/api?username=LucasSousaReis&theme=graywhite&show_icons=true)
 
 <a href="https://github.com/LucasSousaReis/LucasSousaReis">
