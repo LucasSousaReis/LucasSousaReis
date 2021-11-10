@@ -9,12 +9,17 @@ Olá! Meu nome é Lucas Sousa Reis, estudante de engenharia de computação na U
  &#x1f4c8; Métricas do Github
 </div>
 
-![Lucas Sousa Reis- Stats](https://github-readme-stats.vercel.app/api?username=LucasSousaReis&theme=graywhite&show_icons=true)
 
 
 
 <div> 
-
+<table>
+    <tr>
+        <td>![Lucas Sousa Reis- Stats](https://github-readme-stats.vercel.app/api?username=LucasSousaReis&theme=graywhite&show_icons=true)
+</td><td><iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?LucasSousaReis" frameborder="0"></iframe>
+</td>
+    </tr>
+</table>
  
  
  <a href="https://discord.com/channels/689887036110274618/812362659986800650" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
