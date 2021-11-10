@@ -15,7 +15,7 @@ Olá! Meu nome é Lucas Sousa Reis, estudante de engenharia de computação na U
 <div> 
 <table>
     <tr>
-        <td>![Lucas Sousa Reis- Stats](https://github-readme-stats.vercel.app/api?username=LucasSousaReis&theme=graywhite&show_icons=true)
+        <td>(https://github-readme-stats.vercel.app/api?username=LucasSousaReis&theme=graywhite&show_icons=true)
 </td><td><iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?LucasSousaReis" frameborder="0"></iframe>
 </td>
     </tr>
