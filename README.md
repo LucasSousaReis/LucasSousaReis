@@ -10,5 +10,21 @@
 </a>
 <br>
 </br>
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- 👨🏽‍💻  I’m currently working as a mobile software developer at <a href = "http://socialdistribuidora.com.br/br/">Social Distribuidora</a>.
+- 🌱  I’m currently improving my flutter skills. 
+- 💬  Ask me anything! code or just life-related, I'm interested in the intersection between art and technology and open for chat or collaboration.
+- 📫  How to reach me: lucas.krin@gmail.com.
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------
-# **Métricas Github** 
+
+| **Métricas**      | **Github** |
+| ----------- | ----------- |
+| ![Lucas github stats](https://github-readme-stats.vercel.app/api?username=LucasSousaReis&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true)      | ![Lucas github streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasSousaReis&theme=graywhite&include_all_commits=true&count_private=true)       |
+
+
+
+
