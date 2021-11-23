@@ -12,7 +12,7 @@
 </br>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 👨🏽‍💻  I’m currently working as a mobile software developer at <a href = "http://socialdistribuidora.com.br/br/">Social Distribuidora</a>.
+<!--  👨🏽‍💻  I’m currently working as a mobile software developer at <a href = "http://socialdistribuidora.com.br/br/">Social Distribuidora</a>. -->
 - 🌱  I’m currently improving my flutter skills. 
 - 💬  Ask me anything! code or just life-related, I'm interested in the intersection between art and technology and open for chat or collaboration.
 - 📫  How to reach me: lucas.krin@gmail.com.
